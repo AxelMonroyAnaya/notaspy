@@ -1,5 +1,5 @@
 
-# notes saved on a database sql without interface
+# app notes with sql (shell)
 
 ## resume
 
@@ -21,7 +21,7 @@ this is a notes project that saves and register your own notes, only you'll need
 
 1. clone the rep
 2. install the dep 
-3. look the port of connection.
+3. configure the conexion file within the proyect as you need.
 4. execute.
 
 > [!WARNING]
